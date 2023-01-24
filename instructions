@@ -1,0 +1,32 @@
+Step one - click the following link:
+step two: run CTRL + shift + O
+step three: press import
+step four: find (<Eliot's bookmarklet pack v1.2>.html) and open it.
+step five: find imported in your bookmarks bar, and open it. go to folder "imported>bookmarks bar" and drag eliot's bookmarklet pack v1.2 into your main bookmarks bar
+
+
+changelog-
+v1.2-
+non functional - added tutorial, credits
+
+functional - added bookmarklets:
+              quizlet 5 second stopper
+              search for phrase
+              developer console
+              stop bookmarklets
+              I Like Frogs - changes everything you type into i like frogs
+              
+removed due to nonfunctionality
+              save as pdf
+              proxy
+              pipe bomb
+              prank
+              fake hacking
+              asteroids
+              stop at nothing
+              
+reworked
+              everything unblocked
+              (added second method [second works better, just not on school wifi], fixed code)
+              
+              
