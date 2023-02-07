@@ -10,23 +10,29 @@ v1.2-
 non functional - added tutorial, credits
 
 functional - added bookmarklets:
-              quizlet 5 second stopper
-              search for phrase
-              developer console
-              stop bookmarklets
-              I Like Frogs - changes everything you type into i like frogs
+              added quizlet 5 second stopper
+              added search for highlighted phrase
+              added developer console (by snowlord)
+              added stop bookmarklets
+              added cursor crosshair
+              added bullshittifier so you can read lawyer speak easier
+              added about:blank
+              added launch code to launch secret app hidden in chromeos
+              added modding api for quizlet by snowlord
               
 removed due to nonfunctionality
-              save as pdf
-              proxy
-              pipe bomb
-              prank
-              fake hacking
-              asteroids
-              stop at nothing
+              removed save as pdf
+              removed proxy
+              removed pipe bomb
+              removed prank
+              removed fake hacking
+              removed asteroids
+              removed stop at nothing
               
 reworked
               everything unblocked
               (added second method [second works better, just not on school wifi], fixed code)
               
-              
+coming soon:
+help study website
+community bookmarklets form
